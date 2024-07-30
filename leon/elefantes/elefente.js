@@ -1,1 +1,1 @@
-let elefante = 40;
+let elefante = 200;
